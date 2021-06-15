@@ -1,11 +1,21 @@
 <h1 align="center">
     <a href="index.html">🔗 RECRIANDO A NETFLIX </a>
 </h1>
-<p align="center">Recriando a interface da Netflix. Projeto do bootcamp de HTML e CSS da DIO.</p>
+
+<h3>💻 Sobre o projeto</h3>
+
+Projeto do bootcamp HTML Web Developer da Dio. A proposta é recriar a interface da Netflix
+a fim de praticar e aplicar os estudos dados em aula.
 
 <h4 align="center"> 
-    Projeto Terminado
+    🚧  em construção... 🚧
 </h4>
+
+<h3>🎨 Layout </h3>
+
+<img src="img/Layout1.png" alt=""></img>
+<img src="img/Layout2.png" alt=""></img>
+<img src="img/Layout 3.png" alt=""></img>
 
 ### 🛠 Tecnologias
 
